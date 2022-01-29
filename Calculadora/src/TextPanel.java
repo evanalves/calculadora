@@ -2,6 +2,7 @@ import java.awt.FlowLayout;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+@SuppressWarnings("serial")
 public class TextPanel extends JPanel {
 	
 	private JTextField txtNumber;
